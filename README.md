@@ -23,4 +23,4 @@ curl https://raw.githubusercontent.com/Panonim/password-generator/main/app/justa
 ## 📷 Demo
 
 
-![Preview](https://raw.githubusercontent.com/Panonim/password-generator/main/preview-pass.svg)
+[![Preview]](https://raw.githubusercontent.com/Panonim/password-generator/main/preview.svg)
