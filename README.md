@@ -11,10 +11,8 @@ Pass forge is an simple open source password generator with coolest animations i
 ## 💻 Installation
 
 Install PassForge with all assets:
-```bash
-curl -LJO https://downgit.github.io/#/home?url=https://github.com/Panonim/password-generator/tree/fb6fd2fcc2db708ea315830a2b56dd481f54e9cb/app/all-assets
-
-```
+[
+Click Here 👋](https://downgit.github.io/#/home?url=https://github.com/Panonim/password-generator/tree/9f6f3fb19c564dbbafec844c4d3e608cb80367e1/app/all-assets)
 
 Install just an app:
 ```bash
